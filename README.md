@@ -1,2 +1,2 @@
-# Test
-Test for repository
+# 这只是一个关于Pull和Push的测试
+作为第一个repository很合适
